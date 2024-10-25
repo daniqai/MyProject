@@ -1,0 +1,22 @@
+.project-page {
+  display: flex;
+}
+
+.filter {
+  width: 25%;
+  padding: 20px;
+  background-color: #f7f7f7;
+}
+
+.project-list {
+  width: 75%;
+  padding: 20px;
+}
+
+.project-item {
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin-bottom: 15px;
+  background-color: white;
+  border-radius: 5px;
+}
